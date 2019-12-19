@@ -1,0 +1,20 @@
+#for tests only !
+#Fri Dec 08 14:02:42 CST 2017
+jco.client.lang=en
+jco.destination.peak_limit=15
+jco.client.client=800
+jco.client.passwd=bizlinkdev001
+jco.client.user=dev001
+jco.client.sysnr=00
+jco.destination.pool_capacity=10
+jco.client.ashost=10.10.10.101
+
+
+#jco.client.lang=en
+#jco.destination.peak_limit=10
+#jco.client.client=800
+#jco.client.passwd=Agile201810
+#jco.client.user=handagile
+#jco.client.sysnr=01
+#jco.destination.pool_capacity=3
+#jco.client.ashost=10.10.10.106
